@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+h1, h2, h3{
+    font-family: 'Lobster Two', cursive, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: #4E5E20;
+}
+h2{
+    color: #978571;
+    font-size: 28px;
+}
+h3{
+    color: #ECB457;
+    font-size: 28px;
+}
+
+/*Navigation Bar*/
+.menu ul{
+    background: #D8B99B;
+}
+/*Margin Images/Content*/
+body{
+    background: url(images/background.png) fixed #fbfaf7;
+    font-family: 'Cabin', arial, sans-serif;
+    color: #989D75;
+    font-weight: bold;
+/*
+    width: 80%;
+    left: 60%;
+*/
+}
+
+
+/*Footer/Contact*/
+footer {
+    background: #D8B99B;
+}
